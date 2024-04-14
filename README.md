@@ -2,8 +2,8 @@
 
 ## Classification 18 Class
 
-last layer : Desen [softmax]
-class : 
+### last layer : Desen [softmax]
+### class : 
   0  : Astrocytoma
   1  : Atypical meningioma
   2  : Glial fibroma
