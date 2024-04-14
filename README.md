@@ -2,7 +2,7 @@
 
 ## Classification 18 Class
 
-### last layer : Desen [softmax]
+### last layer : Dense [softmax]
 ### class : 
 ###   0  : Astrocytoma
 ###   1  : Atypical meningioma
